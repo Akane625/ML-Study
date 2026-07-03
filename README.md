@@ -42,13 +42,13 @@ In this repository, I do some stuff with machine learing (ML) models. Earlier, t
 
 > Techniques I've learned about.
 
-| Technique | Notes |
-|-------|-------|
-| **Dimensionality Reduction** | PCA, t-SNE, UMAP |
-| **Market Basket Analysis** | Item frequency or simply recommendation algorithms |
-| **Natural Language Processing** | Words into machine interpretable numbers (mainly learned sentiment analysis) |
-| **Text Clustering & Topic Modeling** | Use NLP with ML models like K-Means |
-| **Imbalance Identification** | Find and use methods to remedy imbalance sets such as the simple balance, SMOTE, RUS |
+| Technique | Notes | Pipeline|
+|-----------|-------|---------|
+| **Dimensionality Reduction** | PCA, t-SNE, UMAP | Feature Selection |
+| **Market Basket Analysis** | Item frequency or simply recommendation algorithms | Feature Engineering |
+| **Natural Language Processing** | Words into machine interpretable numbers (mainly learned sentiment analysis) | Feaute Engineering |
+| **Text Clustering & Topic Modeling** | Use NLP with ML models like K-Means | Unsupervised Learning Model |
+| **Imbalance Identification** | Find and use methods to remedy imbalance sets such as the simple balance, SMOTE, RUS | Exlporatory Data Analysis |
 
 ---
 
