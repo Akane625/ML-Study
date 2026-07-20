@@ -52,7 +52,7 @@ In this repository, I do some stuff with machine learing (ML) models.
 
 ---
 
-## Schedule
+## Publish Dates
 
 | Published (MM/DD/YY) | Title | Details |
 |:---------------:|--------|--------|
@@ -63,6 +63,7 @@ In this repository, I do some stuff with machine learing (ML) models.
 | **03/30/26** | **Full Gradient Boosting** | • Cross-validation + Grid search tuning |
 | **04/03/26** | **Feature Transformation (LPM)** | • Log transformation, Polynomial features |
 | **04/17/26** | **Notebook Rework I** | • Feature Transformation (LPM) |
+| **07/20/26** | **Reviewer I** | • A notebook full of insight on each thing I've learned so far as of publishing (with the help of ClaudeAI to save time) |
 | ? | **Heart Attack Prediction** | • Make use from a randomly selected dataset in Kaggle |
 
 ---
